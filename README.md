@@ -1,2 +1,2 @@
-# webschool-magazine-arquitetura
-A revista dedicada ao PHP.
+# Webschool Magazine - Arquitetura
+A revista dedicada à Arquitetura de Sistemas.
